@@ -1,6 +1,6 @@
 # javascript30-challenge
 
-With a recent focus on Python while wroking with Flask and Django I figured I would revisit JavaScript to keep my mind fresh. The idea behind the challenge is to create a small, unique JavaScript program/application/functionality each day.
+With a recent focus on Python while working with Flask and Django I figured I would revisit JavaScript to keep my mind fresh. The idea behind the challenge is to create a small, unique JavaScript program/application/functionality each day.
 
 No Jquery, but I did/will use Bootstrap to minimise the amount of CSS I am writing in order to focus on the JavaScript aspects.
 
