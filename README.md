@@ -15,3 +15,4 @@ More information about the challenge [here.](https://javascript30.com/)
 - Day 02: JavaScript Analogue Clock
   - Render and animate an analogue clock using the JavaScript Date functionality
   - This challenge was actually a lot easier than I had imagined it to be. It was solved simply by using the Date method in JavaScript then using some basic math to resolve the rotation of the individual hands and setting a transform origin on them.
+  - Additionally, setTimeout was used to continuously update the clock every second.
