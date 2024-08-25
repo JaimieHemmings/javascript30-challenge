@@ -12,3 +12,6 @@ More information about the challenge [here.](https://javascript30.com/)
   - A simple challenge to play .wav sounds upon a key press or click event.
   - For the Drumkit challenge I implemented event listeners for click and key press events. Once the event was fired it would play the appropriate drumkit sample sound. The most difficult aspect of this challenge was implementing appropriate animations for keypresses but this was resolved easily by checking for the transform property and then removing the class name that was applied for the animation.
  
+- Day 02: JavaScript Analogue Clock
+  - Render and animate an analogue clock using the JavaScript Date functionality
+  - This challenge was actually a lot easier than I had imagined it to be. It was solved simply by using the Date method in JavaScript then using some basic math to resolve the rotation of the individual hands and setting a transform origin on them.
