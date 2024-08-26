@@ -1,0 +1,13 @@
+.imageToy {
+  padding: 0;
+  background-color: #000;
+  filter: blur(0);
+}
+
+.img-container {
+  background-color: #fff;
+}
+
+img {
+  transition: all 0.3s ease-out;
+}
