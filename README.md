@@ -20,3 +20,10 @@ More information about the challenge [here.](https://javascript30.com/)
 - Day 03: CSS Manipulation
   - Use JavaScript with form elements to edit CSS Values
   - Simple functionality provided by using event listeners to manipulate the DOM, in this example we provide form elements to allow the user to edit the spacing, blur and padding of an image.
+
+- Day 04: Array Cardio
+  - A series of small challenges related to working with arrays
+
+- Day 05: Flex Panels
+  - Creating a small image gallery with functionality provided by Flexbox and a sprinkling of JavaScript
+  - I would have liked to spend a bit more time making this mobile friendly, so may come back to this one.
